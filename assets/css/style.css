@@ -2445,7 +2445,7 @@ hr {
   }
 }
 .services-area {
-  padding-top: 270px;
+  padding-top: 200px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .services-area {
@@ -2849,7 +2849,7 @@ hr {
   }
 }
 .generating-area .generating-cap {
-  padding-left: 28px;
+  padding-left: 0px;
 }
 .generating-area .generating-cap h4 {
   color: #2b4b80;
